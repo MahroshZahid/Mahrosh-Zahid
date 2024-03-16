@@ -6,12 +6,12 @@
 }
 
 .hero_title {
-    font-size: 4.5rem;
+    font-size: 4.5vw;
 }
 
 .hero_desc {
-    font-size: 2rem;
-    
+    font-size: 2vw;
+
 }
 .hero-text {
     text-align: center;
@@ -21,3 +21,4 @@
     transform: translate(-50%, -50%);
     color: white;
 }
+
